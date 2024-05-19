@@ -1,4 +1,4 @@
-/* You can add global styles to this file, and also import other style files */
+You can add global styles to this file, and also import other style files
 *{
     margin: 0;
 padding: 0;
@@ -102,6 +102,6 @@ transition: .3s;
 .home-sci a:hover{
     background:rgb(98, 194, 43) ;
     color: #081b29;
-    box-shadow: 0 0 30px rgb(95, 253, 4);
+    box-shadow: 0 0 30px rgb(19, 107, 7);
 }
 
