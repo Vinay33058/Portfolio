@@ -28,6 +28,10 @@ body{
     text-decoration: none;
     font-weight: 600;
 }
+.logo:hover{
+    color: #0ef; 
+    text-shadow:0 0 30px #b607fc ;
+}
 .navbar a{
 display: inline-block;
 font-size: 20px;
@@ -51,6 +55,7 @@ transition: .3s;
 .navbar a:hover {
     color: #0ef; 
     /* box-shadow: 0 0 30px #0ef; */
+    text-shadow:0 0 30px #b607fc ;
   
 }
 
